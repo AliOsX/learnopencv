@@ -78,7 +78,7 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 |[How to compile OpenCV sample Code ?](http://www.learnopencv.com/how-to-compile-opencv-sample-Code/) | |
 |[Install OpenCV 3 on Yosemite ( OSX 10.10.x )](http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/) | |
 
-
+|[How to develop an Example OpenCV2 Project(Turkish)](https://batuhanisildak.wordpress.com/2018/02/15/the-egg-project-giris/)
 
 
 
