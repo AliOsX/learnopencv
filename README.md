@@ -75,10 +75,11 @@ Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenC
 |[OpenCV Threshold ( Python , C++ )](http://www.learnopencv.com/opencv-threshold-python-cpp/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Threshold) |
 |[Blob Detection Using OpenCV ( Python, C++ )](http://www.learnopencv.com/blob-detection-using-opencv-python-c/) | [Code](https://github.com/spmallick/learnopencv/tree/master/BlobDetector) |
 |[Turn your OpenCV Code into a Web API in under 10 minutes — Part 1](http://www.learnopencv.com/turn-your-opencv-Code-into-a-web-api-in-under-10-minutes-part-1/) | |
+|[How to develop an Example OpenCV2 Project - Turkish](https://batuhanisildak.wordpress.com/2018/02/15/the-egg-project-giris/) | |
+
 |[How to compile OpenCV sample Code ?](http://www.learnopencv.com/how-to-compile-opencv-sample-Code/) | |
 |[Install OpenCV 3 on Yosemite ( OSX 10.10.x )](http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/) | |
 
-|[How to develop an Example OpenCV2 Project(Turkish)](https://batuhanisildak.wordpress.com/2018/02/15/the-egg-project-giris/) | |
 
 
 
